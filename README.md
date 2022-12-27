@@ -1,2 +1,2 @@
-# blogImage
-save blog image
+# PicGoImage
+save PicGo image
